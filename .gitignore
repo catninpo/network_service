@@ -1,0 +1,4 @@
+*/target/*
+server/.env
+server/collection*
+collector/uuid
